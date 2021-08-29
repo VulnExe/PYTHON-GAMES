@@ -67,3 +67,4 @@ while True:
     else:
         print("Thank for Playing!!!")
         exit()
+ #game ends
